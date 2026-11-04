@@ -10,11 +10,11 @@ This repository contains the projects I built during the **AICTE Oasis Infobyte 
 
 ## Projects
 
-| # | Project | Folder | Technologies |
-|---|---------|--------|--------------|
-| 1 | Bean&Co | [`Bean-Co`](./Bean-Co) | HTML5, CSS3 |
-| 2 | Portfolio Website | [`portfolio`](./portfolio) | HTML5, CSS3, JavaScript |
-| 3 | Temperature Converter | [`temperature-converter`](./temperature-converter) | HTML5, CSS3, JavaScript |
+| # | Project |Technologies |
+|---|---------|--------------|
+| 1 | Bean&Co | HTML5, CSS3 |
+| 2 | Portfolio Website | HTML5, CSS3, JavaScript |
+| 3 | Temperature Converter | HTML5, CSS3, JavaScript |
 
 ---
 
